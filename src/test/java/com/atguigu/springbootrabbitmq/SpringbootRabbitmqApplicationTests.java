@@ -21,4 +21,8 @@ class SpringbootRabbitmqApplicationTests {
     public void test(){
     System.out.println("jagjajgakj");
 }
+    @Test
+    public void test05(){
+        System.out.println("jagjajgakj");
+    }
 }
