@@ -17,5 +17,8 @@ class SpringbootRabbitmqApplicationTests {
     public void testRabbit(){
         System.out.println(rabbitTemplate);
     }
-
+@Test
+    public void test(){
+    System.out.println("jagjajgakj");
+}
 }
